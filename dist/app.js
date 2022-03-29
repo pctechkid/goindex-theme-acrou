@@ -1,6 +1,6 @@
 var scripts = [
-  "https://cdn.jsdelivr.net/gh/pctechkid/goindex-theme-acrou@2a9bc7b/dist/js/app.da7f5f3f.js",
-  "https://cdn.jsdelivr.net/gh/pctechkid/goindex-theme-acrou@2a9bc7b/dist/js/chunk-vendors.3c185c97.js",
+  "https://cdn.jsdelivr.net/gh/pctechkid/goindex-theme-acrou@039b24b/dist/js/app.da7f5f3f.js",
+  "https://cdn.jsdelivr.net/gh/pctechkid/goindex-theme-acrou@039b24b/dist/js/chunk-vendors.3c185c97.js",
 ];
 var cdnjs = [
   "https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
