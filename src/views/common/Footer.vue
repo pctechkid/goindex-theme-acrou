@@ -9,7 +9,7 @@
               href="https://github.com/pctechkid/goindex-theme-acrou"
             >goindex-theme-acrou</a>
             <span class="tag is-light">
-              MIT &nbsp;
+             &nbsp;
               <span class="icon">
                 <i class="fa fa-github"></i>
               </span>
